@@ -1,0 +1,2 @@
+# npcDiscord
+FiveM script
